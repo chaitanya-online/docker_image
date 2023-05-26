@@ -1,3 +1,3 @@
 FROM almalinux
 RUN yum install git -y
-RUN yum intall nginx -y
+RUN yum install nginx -y
