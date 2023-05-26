@@ -1,0 +1,6 @@
+services:
+  web:
+    image: ownimage:v1
+    container_name: web
+    ports:
+      - "80:80"
